@@ -1,3 +1,5 @@
+![](images/Developer.gif)
+
 <h1 align="center">Hi 👋, I'm Tonyopano</h1>
 <h3 align="center">A passionate Full-stack Developer from Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
