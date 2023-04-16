@@ -1,4 +1,4 @@
-![](images/build_js.gif)
+![](images/Developer.gif)
 
 <h1 align="center">Hello 👋, I'm Tony opano</h1>
 <h3 align="center">A passionate Full-stack Developer from Kenya</h3>
