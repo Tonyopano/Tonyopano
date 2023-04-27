@@ -2,8 +2,7 @@
 
 <h1 align="center">Hello 👋, I'm Tony opano</h1>
 <h3 align="center">A passionate Full-stack Developer from Kenya, on the verge of solving real world problems through technical innovation, by creating and upgrading existing tecnologies. </h3>
-<img align="right" alt="coding" width="400" src="images/Developer.gif">
-
+<!-- <img align="right" alt="coding" width="400" src="images/Developer.gif"> -->
 
 <p align="left"> <a href="https://twitter.com/tony_opano" target="blank"><img src="https://img.shields.io/twitter/follow/tony_opano?logo=twitter&style=for-the-badge" alt="tony_opano" /></a> </p>
 
