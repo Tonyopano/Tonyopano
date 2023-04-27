@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="images/Developer.gif">
 
 
-<p align="left"> <a href="https://twitter.com/tony_opano" target="blank"><img src="https://img.shields.io/twitter/follow/@tony_opano?logo=twitter&style=for-the-badge" alt="@tony_opano" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tony_opano" target="blank"><img src="https://img.shields.io/twitter/follow/tony_opano?logo=twitter&style=for-the-badge" alt="tony_opano" /></a> </p>
 
 - 📫 How to reach me **antonyopano@gmail.com**
 
