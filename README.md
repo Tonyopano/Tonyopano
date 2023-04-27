@@ -1,7 +1,7 @@
 ![](images/banner-1.png)
 
 <h1 align="center">Hello 👋, I'm Tony opano</h1>
-<h3 align="center">A passionate Full-stack Developer from Kenya, on the verge of solving real world problems through technical innovation, by creating and upgrading existing tecnologies. </h3>
+<h3 align="center">A passionate Full-stack Developer from Kenya, on the verge of solving real world problems through technical innovation, by creating and upgrading existing technologies. </h3>
 <!-- <img align="right" alt="coding" width="400" src="images/Developer.gif"> -->
 
 <p align="center">
