@@ -2,24 +2,17 @@
 
 <h1 align="center">Hello 👋, I'm Tony opano</h1>
 <h3 align="center">A passionate Full-stack Developer from Kenya, on the verge of solving real world problems through technical innovation, by creating and upgrading existing technologies. </h3>
-<!-- <img align="right" alt="coding" width="400" src="images/Developer.gif"> -->
 
 <p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-<!--   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> -->
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/-react-1BB3A4?style=flat-square&logo=react&logoColor=white">
   <img alt="nginx" src="https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=white">
   <img alt="mysql" src="https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img alt="linux" src="https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white">
-<!--   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" /> -->
-<!--   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /> -->
-<!--   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> -->
-</p>
-
-
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyopano&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="tonyopano" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tonyopano&show_icons=true&theme=gruvbox" alt="tonyopano" /></p>
