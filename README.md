@@ -8,6 +8,7 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="node.js" src="https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img alt="react" src="https://img.shields.io/badge/-react-1BB3A4?style=flat-square&logo=react&logoColor=white">
   <img alt="nginx" src="https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=white">
   <img alt="mysql" src="https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
