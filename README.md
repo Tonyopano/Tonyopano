@@ -28,8 +28,9 @@
 
 
 <p align="center">
-<a href="https://twitter.com/tony_opano" target="blank"><img alt="X" src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/tony-opano-285449232" target="blank"><img alt="linkedin" src="https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="antonyopano@gmail.com" target="blank"><img alt="gmail" src="https://img.shields.io/badge/-gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://twitter.com/tony_opano" target="blank"><img alt="X" src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=white"></a>
 </p>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyopano&label=Profile%20views&color=0e75b6&style=flat" alt="tonyopano" /> </p> -->
