@@ -14,6 +14,7 @@
   <img alt="nginx" src="https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=white">
   <img alt="mysql" src="https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img alt="linux" src="https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white">
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-06B6D4?style=flat-square&logo=Tailwindcss&logoColor=white">
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyopano&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="tonyopano" /></p>
 
