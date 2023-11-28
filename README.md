@@ -1,6 +1,6 @@
 ![](images/banner-1.png)
 
-<h1 align="center">Hello 👋, I'm Tony opano</h1>
+<h1 align="center">Hello There 👋</h1>
 <h3 align="center">A passionate Full-stack Developer from Kenya, on the verge of solving real world problems through technical innovation, by creating and upgrading existing technologies. </h3>
 
 <p align="center">
@@ -29,7 +29,3 @@
 <a href=mailto:antonyopano@gmail.com alt=email target="_blank"><img alt="gmail" src="https://img.shields.io/badge/-gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 <a href="https://twitter.com/tony_opano" target="blank"><img alt="X" src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=white"></a>
 </p>
-
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyopano&label=Profile%20views&color=0e75b6&style=flat" alt="tonyopano" /> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/tony_opano" target="blank"><img src="https://img.shields.io/twitter/follow/tony_opano?logo=twitter&style=for-the-badge" alt="tony_opano" /></a> </p> -->
