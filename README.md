@@ -1,7 +1,7 @@
 ![](images/banner-1.png)
 
 <h1 align="center">Hello There 👋</h1>
-<h3 align="center">A passionate Full-stack Developer from Kenya, on the verge of solving real world problems through technical innovation, by creating and upgrading existing technologies. </h3>
+<h3 align="center">I'm a passionate Full-stack Developer from Kenya, on the verge of solving real world problems through technical innovation, by creating and upgrading existing technologies. </h3>
 
 <p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
