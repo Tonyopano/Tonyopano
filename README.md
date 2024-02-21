@@ -1,7 +1,7 @@
 ![](images/banner-1.png)
 
 <h1 align="center">Hello There 👋</h1>
-<h3 align="center">I'm a passionate Full-stack Developer from Kenya, on the verge of solving real world problems through technical innovation, by creating and upgrading existing technologies. </h3>
+<h3 align="center">I'm a passionate Full-stack Developer from Kenya, on the verge of solving real-world problems through technical innovation, by creating and upgrading existing technologies. </h3>
 
 <p align="center">
   <img alt="linux" src="https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white">
@@ -19,6 +19,7 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
   <img alt="Rapid API" src="https://img.shields.io/badge/-Rapid_API-0055DA?style=flat-square&logo=Rapid_API&logoColor=white">
+  <img alt="Bootstrap5" src="https://img.shields.io/badge/-Bootstrap5-7952B3?style=flat-square&logo=Bootstrap5&logoColor=white">
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyopano&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="tonyopano" /></p>
 
