@@ -20,6 +20,7 @@
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
   <img alt="Rapid API" src="https://img.shields.io/badge/-Rapid_API-0055DA?style=flat-square&logo=Rapid_API&logoColor=white">
   <img alt="Bootstrap5" src="https://img.shields.io/badge/-Bootstrap5-7952B3?style=flat-square&logo=Bootstrap5&logoColor=white">
+  <img alt="BEM" src="https://img.shields.io/badge/-BEM-000000?style=flat-square&logo=BEM&logoColor=white">
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyopano&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="tonyopano" /></p>
 
